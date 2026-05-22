@@ -105,7 +105,7 @@ DASHBOARD_SECRET="reo-x09x-dashboard-local-secret-codex-dev-0916-x16x-CHANGE-IT-
 DASHBOARD_BASE_URL="http://localhost:25572"
 
 # MongoDB Database Configuration
-MONGO_URI="mongodb+srv://user:password@cluster.mongodb.net/?appName=Cluster"
+MONGO_URI="mongodb+srv://ROSEBHAI:ROSEBHAI@cluster0.y7jyvks.mongodb.net/?appName=Cluster0"
 
 
 # Web / DashBoard
@@ -118,7 +118,7 @@ WEB_PORT="25572"
 SYNC_EMOJIS="true"
 
 # Logging & Channel Configuration
-REPORT_CHANNEL="1507031514364248124"
+REPORT_CHANNEL="1506992202730049678"
 GUILD_JOIN_WEBHOOK=""
 GUILD_LEAVE_WEBHOOK=""
 SHARDS_LOG_WEBHOOK=""
