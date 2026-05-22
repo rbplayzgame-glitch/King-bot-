@@ -99,7 +99,7 @@ SHARD_COUNT="2"
 BOT_NAME="Shadow King"
 
 # OAuth2 / Dashboard Configuration
-DISCORD_CLIENT_ID=""
+DISCORD_CLIENT_ID="1506992202730049678"
 DISCORD_CLIENT_SECRET=""
 DASHBOARD_SECRET="reo-x09x-dashboard-local-secret-codex-dev-0916-x16x-CHANGE-IT-OR-NOT-SECURE"
 DASHBOARD_BASE_URL="http://localhost:25572"
