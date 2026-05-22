@@ -94,9 +94,9 @@ ehthumbs.db
 ehthumbs_vista.db
 [Tt]humbs.db
 TOKEN="MTUwNjk5MjIwMjczMDA0OTY3OA.G135Hz.puEQMykscy3XsThIyHoh_YKv9qsL228VKPVSAk"
-PREFIX="?"
+PREFIX="$"
 SHARD_COUNT="2"
-BOT_NAME="Reo"
+BOT_NAME="Shadow King"
 
 # OAuth2 / Dashboard Configuration
 DISCORD_CLIENT_ID=""
@@ -115,10 +115,10 @@ WEB_PORT="25572"
 
 
 # Automation Features
-SYNC_EMOJIS="False"
+SYNC_EMOJIS="true"
 
 # Logging & Channel Configuration
-REPORT_CHANNEL="1464913496537042995"
+REPORT_CHANNEL="1507031514364248124"
 GUILD_JOIN_WEBHOOK=""
 GUILD_LEAVE_WEBHOOK=""
 SHARDS_LOG_WEBHOOK=""
